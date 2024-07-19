@@ -13,10 +13,6 @@ setup(
             'aily-cli = aily_cli.cli:cli'
         ]
     },
-    # entry_points='''
-    #     [console_scripts],
-    #     aily-cli=aily-cli.cli:cli
-    # ''',
     author="stao",
     author_email="werewolf_st@hotmail.com",
     description="Aily CLI",
